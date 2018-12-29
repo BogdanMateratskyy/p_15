@@ -1,2 +1,4 @@
 FROM debian:wheezy
-ADD ./ 
+ADD . /opt
+CMD ["bash", "./cpuInfo.bash"]
+

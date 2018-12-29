@@ -57,7 +57,7 @@ while true; do
 	rm *.json 
 	count=0
     fi
-    sleep 2s
+    sleep 5m
 done
 
 
